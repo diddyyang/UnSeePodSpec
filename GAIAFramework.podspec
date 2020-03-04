@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/diddyyang/GAIAFramework.git", :commit => "4f1d7f85b54ccd7ccf0817449c028eff14f0dca7" }
+  spec.source       = { :git => "https://github.com/diddyyang/GAIAFramework.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
